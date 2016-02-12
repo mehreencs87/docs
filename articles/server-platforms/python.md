@@ -23,6 +23,14 @@ snippets:
 
 **Otherwise, Please follow the steps below to configure your existing Python WebApp to use it with Auth0.**
 
+
+ ::: panel-info System Requirements
+This tutorial and seed project have been tested with the following:
+
+* Python-2.7.11
+* Pyhton-3.5.1
+:::
+
 ### 1. Add dependencies
 
 ${snippet(meta.snippets.dependencies)}
