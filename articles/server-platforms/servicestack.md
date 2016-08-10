@@ -12,6 +12,17 @@ snippets:
 
 # ServiceStack Tutorial
 
+<%= include('../../_includes/_package', {
+  githubUrl: 'https://github.com/auth0-samples/auth0-servicestack-samples/tree/master/00-Starter-Seed',
+  pkgOrg: 'auth0-samples',
+  pkgRepo: 'auth0-servicestack-samples',
+  pkgBranch: 'master',
+  pkgPath: '00-Starter-Seed',
+  pkgFilePath: null,
+  pkgType: 'none'
+}) %>
+
+
 At the end of this tutorial you will have a working web site that calls a ServiceStack API with authenticated users.
 
 ## Before you start
